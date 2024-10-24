@@ -1,0 +1,29 @@
+header{
+  /* setting header */
+  background-color: lightblue;
+  text-align: center;}
+
+.intestazione{
+  font-size: 35px}
+
+hr{
+  border-color: green;}
+
+
+main{
+  /* titoli paragrafi */
+    margin-left: 8px;}
+
+.section-title{
+    color: orange}
+
+footer{
+  /* firma */
+  text-align: center;
+  font-style: italic;
+  background-color: lightblue}
+
+  .border{
+    /* tabella firma */
+    border-style: solid;
+    border-color: green;}
